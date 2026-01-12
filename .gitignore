@@ -1,0 +1,17 @@
+# Backend (Java/Maven)
+task-tracker-backend/target/
+task-tracker-backend/.idea/
+task-tracker-backend/*.iml
+task-tracker-backend/.DS_Store
+
+# Frontend (Node/React)
+task-tracker-frontend/node_modules/
+task-tracker-frontend/build/
+task-tracker-frontend/dist/
+task-tracker-frontend/.env.local
+task-tracker-frontend/.DS_Store
+
+# General
+.DS_Store
+*.log
+.vscode/
