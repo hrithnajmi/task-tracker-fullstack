@@ -11,6 +11,10 @@ task-tracker-frontend/dist/
 task-tracker-frontend/.env.local
 task-tracker-frontend/.DS_Store
 
+# Application properties with sensitive data
+**/application.properties
+**/application-*.properties
+
 # General
 .DS_Store
 *.log
